@@ -77,10 +77,10 @@ Proyecto técnico de automatización y control.
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CARLA170&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLA170" alt="GitHub streak" />
 </p>
 
 > ⚠️ Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub para que estas estadísticas se muestren correctamente.
