@@ -54,8 +54,6 @@ Proyecto técnico de automatización y control.
   <img src="https://streak-stats.demolab.com/?user=Carla170&theme=github-dark&hide_border=true" />
 </p>
 
-> Nota: si en algún momento las tarjetas vuelven a fallar, es por saturación del servicio compartido — puedes desplegar tu propia instancia gratis en Vercel siguiendo la guía de [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended).
-
 ---
 
 ### 🐍 Actividad de contribuciones
@@ -63,8 +61,6 @@ Proyecto técnico de automatización y control.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Carla170/Carla170/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> Esta animación de "snake" no aparece sola — se genera con un GitHub Action. Instrucciones abajo. ⬇️
 
 ---
 
