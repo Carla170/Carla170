@@ -46,15 +46,15 @@ Proyecto técnico de automatización y control.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carla170&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carla170&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Carla170&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Carla170&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Carla170&theme=github-dark&hide_border=true" />
 </p>
 
-> ⚠️ Reemplaza `Carla170` por tu usuario real de GitHub en las tres URLs de arriba.
+> Nota: si en algún momento las tarjetas vuelven a fallar, es por saturación del servicio compartido — puedes desplegar tu propia instancia gratis en Vercel siguiendo la guía de [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended).
 
 ---
 
