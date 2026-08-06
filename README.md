@@ -51,7 +51,7 @@ Proyecto técnico de automatización y control.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carla170&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Carla170&theme=github-dark&hide_border=true" />
 </p>
 
 > ⚠️ Reemplaza `Carla170` por tu usuario real de GitHub en las tres URLs de arriba.
