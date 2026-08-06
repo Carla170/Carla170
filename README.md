@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://claude-coding-mascot.vercel.app/mascot.svg?id=06867576ae5e86b9afc226ec2cae4761" alt="coding status" />
+</p>
+
 ---
 
 ### 🚀 Sobre mí
@@ -40,6 +44,9 @@ Apache HTTP Server y NGINX: Virtual Hosts, balanceo de carga (upstream/proxy_pas
 
 **🦾 Ensamblaje y configuración de brazo robótico**
 Proyecto técnico de automatización y control.
+
+**🐾 [claude-coding-mascot](https://github.com/Carla170/claude-coding-mascot)**
+Mascota/mascot de código personal.
 
 ---
 
