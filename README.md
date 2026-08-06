@@ -5,7 +5,7 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas · Backend & Bases de Datos</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%2B+bases+de+datos+relacionales+y+NoSQL;C%2B%2B+%7C+.NET+%7C+Angular+%7C+Docker;QA+Jr+en+Precredit+%F0%9F%9A%80;Ingenier%C3%ADa+en+Sistemas+-+UMG+Sololá" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%2B+bases+de+datos+relacionales+y+NoSQL;C%2B%2B+%7C+.NET+%7C+Angular+%7C+Docker;QA+Jr+en+Precredit+%F0%9F%9A%80;Ingenier%C3%ADa+en+Sistemas+-+UMG+Solol%C3%A1" />
 </p>
 
 <p align="center">
