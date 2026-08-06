@@ -1,22 +1,26 @@
-<h1 align="center">¡Hola! Soy Carla Chumil 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=140&section=header&text=Carla%20Chumil&fontSize=38&fontColor=58a6ff&fontAlignY=40&animation=fadeIn" />
+</p>
+
+<h3 align="center">Estudiante de Ingeniería en Sistemas · Backend & Bases de Datos</h3>
 
 <p align="center">
-  Estudiante de Ingeniería en Sistemas de Información y Ciencias de la Computación 🎓
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%2B+bases+de+datos+relacionales+y+NoSQL;C%2B%2B+%7C+.NET+%7C+Angular+%7C+Docker;QA+Jr+en+Precredit+%F0%9F%9A%80;Ingenier%C3%ADa+en+Sistemas+-+UMG+Sololá" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Universidad-Mariano%20G%C3%A1lvez-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Guatemala-Sololá-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Bases%20de%20Datos-orange?style=flat-square" />
+  <a href="mailto:carlacsequen@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 💻 Estudiante de Ingeniería en Sistemas, con experiencia práctica en desarrollo full-stack, bases de datos relacionales y no relacionales, e infraestructura.
+- 💻 Estudiante de octavo semestre de Ingeniería en Sistemas de Información y Ciencias de la Computación — Universidad Mariano Gálvez, Sololá.
 - 🔍 Actualmente en prácticas profesionales como **QA Jr** en el área de Desarrollo de **Precredit**.
-- 🛠️ Me gusta llevar los proyectos académicos de punta a punta: infraestructura, backend, frontend y documentación.
+- 🛠️ Me gusta llevar los proyectos de punta a punta: infraestructura, backend, frontend y documentación.
 - 📚 Formación complementaria en Java, C++ (POO, memoria dinámica, estructuras de datos) y bases de datos SQL/MySQL.
 
 ---
@@ -24,18 +28,43 @@
 ### 🧩 Proyectos destacados
 
 **🏦 SGSC — Sistema de Gestión de Servicio al Cliente Bancario**
-Angular 17 · .NET 8 · SQL Server · Docker Compose
+`Angular 17` `.NET 8` `SQL Server` `Docker Compose`
 Cubre 9 procesos de negocio bancarios con patrón de autorización Maker-Checker y dos roles (Asistente, Gerente). Rediseñé la base de datos de 10 a 20 tablas en 6 módulos y simplifiqué la arquitectura backend a un patrón de 3 capas.
 
-**🗄️ CorpData S.A. — Sistema de Bases de Datos Distribuidas Heterogéneas**
-Docker Compose · Oracle Free · SQL Server 2022 · PostgreSQL 16 · MariaDB 11 · MongoDB 7 · FastAPI · Streamlit
+**🗄️ CorpData S.A. — Bases de Datos Distribuidas Heterogéneas**
+`Docker` `Oracle` `SQL Server` `PostgreSQL` `MariaDB` `MongoDB` `FastAPI` `Streamlit`
 Proyecto individual construido desde cero (Ubuntu Server 22.04 en VirtualBox), con API REST y frontend en Streamlit. Documentación completa: arquitectura, diccionarios de datos, evidencias de pruebas y manuales de usuario.
 
 **🌐 Administración de Servidores Web**
-Apache HTTP Server y NGINX: instalación, Virtual Hosts, balanceo de carga (upstream/proxy_pass), redirecciones 301, permisos y logs — documentado con evidencia real de terminal y navegador.
+Apache HTTP Server y NGINX: Virtual Hosts, balanceo de carga (upstream/proxy_pass), redirecciones 301, permisos y logs.
 
 **🦾 Ensamblaje y configuración de brazo robótico**
 Proyecto técnico de automatización y control.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carla170&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carla170&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carla170&theme=github-dark&hide_border=true" />
+</p>
+
+> ⚠️ Reemplaza `Carla170` por tu usuario real de GitHub en las tres URLs de arriba.
+
+---
+
+### 🐍 Actividad de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carla170/Carla170/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> Esta animación de "snake" no aparece sola — se genera con un GitHub Action. Instrucciones abajo. ⬇️
 
 ---
 
@@ -74,25 +103,6 @@ Proyecto técnico de automatización y control.
 
 ---
 
-### 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CARLA170&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=80&section=footer" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLA170" alt="GitHub streak" />
-</p>
-
-> ⚠️ Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub para que estas estadísticas se muestren correctamente.
-
----
-
-### 📫 Contacto
-
-<p align="center">
-  <a href="mailto:carlacsequen@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Guatemala 🇬🇹</i></p>
