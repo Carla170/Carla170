@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://claude-coding-mascot.vercel.app/mascot.svg?id=06867576ae5e86b9afc226ec2cae4761" alt="coding status" />
+  <img src="[https://claude-coding-mascot.vercel.app/mascot.svg?id=06867576ae5e86b9afc226ec2cae4761](https://claude-coding-mascot.vercel.app/mascot.svg?id=06867576ae5e86b9afc226ec2cae4761)" alt="coding status" />
 </p>
 
 ---
